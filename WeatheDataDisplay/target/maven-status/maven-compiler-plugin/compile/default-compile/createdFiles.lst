@@ -1,0 +1,11 @@
+model\TempoCollection.class
+observer\AtualizaTabelaObservador.class
+observer\IObservador.class
+observer\ISujeitoObservado.class
+presenter\ExibicaoAtual.class
+model\Tempo.class
+view\IExibicao.class
+observer\AtualizaDadosObservador.class
+observer\AtualizaMediaObservador.class
+presenter\ExibicaoEstatistica.class
+presenter\ExcluirDadosTempo.class
